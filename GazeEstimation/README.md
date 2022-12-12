@@ -1,5 +1,5 @@
-# video-ai
-video-ai
+# Gaze_Estimation
+Gaze_Estimation
 
 # Environment Version
 Ubuntu : 18.04
