@@ -1,0 +1,14 @@
+face_alignment
+mediapipe
+numpy
+omegaconf
+opencv-python
+pyyaml
+scipy
+timm
+fastapi
+uvicorn
+python-multipart
+requests
+albumentations
+chardet==4.0.0
